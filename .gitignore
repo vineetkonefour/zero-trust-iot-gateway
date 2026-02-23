@@ -1,0 +1,21 @@
+# Virtual environment — never upload this (thousands of files)
+venv/
+
+# Database — contains test data, not source code
+database/zt_iot.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
